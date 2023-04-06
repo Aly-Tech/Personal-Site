@@ -3,4 +3,4 @@ body {background-color: lavenderblush;}
 .left {float: right;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size: 30px;color: crimson;margin-right: 20px;}
 .top {border-bottom-style: solid;color: rgb(117, 124, 35);margin-top: 15px;margin-bottom: 15px;}
 .link {margin-right: 10px;margin-left: 10px;padding-left: 5px;padding-bottom: 5px;}
-.text {font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: 20px;color: rgb(80, 80, 255);margin-bottom: 80px;list-style: square;margin-top: 10px;}
+.text {font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: 20px;color: rgb(80, 80, 255);margin-bottom: 150px;list-style: square;margin-top: 80px;}
