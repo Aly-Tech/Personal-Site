@@ -9,9 +9,15 @@ body {background-color: lavenderblush;}
 .bottom {border-radius: 40px;float: right;margin-right: 600px;margin-top: 140px;margin-left: 200px}
 .title {font-style: oblique;font-size: 40px;color: gold;margin-top: 10px;text-align: center;}
 .form {
-    max-width: 400px;width: 100%;margin: auto;position: relative;
+    max-width: 400px;width: 100%;margin: auto;position: relative;border-style: double;color: brown;padding-top: 10px;padding-bottom: 10px;padding-left: 10px;
 }
 #head {
-    font-family: Arial, Helvetica, sans-serif;font-weight: 100;font-size: 32px;color: goldenrod;font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;font-weight: 100;font-size: 32px;color: goldenrod;font-style: italic;text-align: center;
+}
+.wave {
+    cursor: pointer;color: red;background-color: yellowgreen;font-weight: 100;font-family: Arial, Helvetica, sans-serif;border-radius: 5px;font-size: large;width: 100px;
+}
+label {
+    color: goldenrod;font-size: large;
 }
 
